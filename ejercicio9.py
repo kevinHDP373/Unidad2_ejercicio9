@@ -1,5 +1,3 @@
-#entrada=input("Digite: ") esto siempre sera un string
-#print(type(entrada))
 mensaje="hay un error"
 
 while mensaje=="hay un error":
